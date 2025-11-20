@@ -2,7 +2,7 @@
   {
     "instructionId": "ACCT123",
     "account_number": "123456789",
-    "security_id": "ABC1234",
+    "security_id": "abc1234",
     "trade_type": "Buy",
     "quantity": 100,
     "tradeTimestamp": "2025-08-04T21:15:33Z"
