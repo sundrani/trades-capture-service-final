@@ -1,0 +1,9 @@
+spring:
+  profiles: prod
+  kafka:
+    bootstrap-servers: kafka-prod:9092
+
+app:
+  kafka:
+    inbound-topic: instructions.inbound
+    outbound-topic: instructions.outbound

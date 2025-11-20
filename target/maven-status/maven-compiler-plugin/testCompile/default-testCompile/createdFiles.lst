@@ -1,0 +1,4 @@
+com/example/trades/controller/TradeControllerIntegrationTest.class
+com/example/trades/service/TradeTransformationServiceTest.class
+com/example/trades/kafka/InstructionListenerTest.class
+com/example/trades/controller/TradeControllerIntegrationTest$1.class

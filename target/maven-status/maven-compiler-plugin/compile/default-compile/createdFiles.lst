@@ -1,0 +1,5 @@
+com/example/trades/config/KafkaTopicsConfig.class
+com/example/trades/kafka/InstructionListener.class
+com/example/trades/model/TradeInstruction.class
+com/example/trades/kafka/InstructionListener$1.class
+com/example/trades/service/TradeTransformationService.class

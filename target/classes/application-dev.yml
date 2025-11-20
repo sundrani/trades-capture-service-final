@@ -1,0 +1,8 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+
+app:
+  kafka:
+    inbound-topic: instructions.inbound
+    outbound-topic: instructions.outbound

@@ -1,0 +1,22 @@
+[
+  {
+    "platform_id": "1",
+    "trade": {
+      "account": "XXXXX6789",
+      "security": "ABC123",
+      "type": "B",
+      "amount": 100,
+      "timestamp": "2025-11-19T15:19:30.798977Z"
+    }
+  },
+  {
+    "platform_id": "2",
+    "trade": {
+      "account": "XXXXX4321",
+      "security": "XYZ789",
+      "type": "S",
+      "amount": 50,
+      "timestamp": "2025-11-19T15:19:30.836681Z"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "Trades Capture Service",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Upload Trades CSV",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": "sample-trades.csv"
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:8080/api/trades/upload",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "api",
+            "trades",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
