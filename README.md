@@ -294,3 +294,8 @@ Sample CSV/JSON input files and expected accounting output are provided in the *
 - `../expected-accounting-output.json`
 
 You can use these files to quickly test the `/api/trades/upload` endpoint and verify the transformed `platform_id` + `trade` JSON structure.
+
+![Screenshot 2025-11-19 at 12.18.44 PM.png](Screenshot%202025-11-19%20at%2012.18.44%E2%80%AFPM.png)
+![Screenshot 2025-11-19 at 12.19.21 PM.png](Screenshot%202025-11-19%20at%2012.19.21%E2%80%AFPM.png)
+![Screenshot 2025-11-19 at 12.20.09 PM.png](Screenshot%202025-11-19%20at%2012.20.09%E2%80%AFPM.png)
+![Screenshot 2025-11-19 at 3.19.39 PM.png](Screenshot%202025-11-19%20at%203.19.39%E2%80%AFPM.png)
